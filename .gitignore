@@ -77,4 +77,4 @@ dist
 .serverless
 
 # IDE
-.idea
+.idea/
